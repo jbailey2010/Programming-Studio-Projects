@@ -1,0 +1,1260 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa12-cs242/bailey27">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="865">
+<author>bailey27</author>
+<date>2012-08-30T03:25:18.994536Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/matching.php</name>
+<size>29167</size>
+<commit
+   revision="865">
+<author>bailey27</author>
+<date>2012-08-30T03:25:18.994536Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3088">
+<author>bailey27</author>
+<date>2012-09-09T22:00:58.877341Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.settings</name>
+<commit
+   revision="1872">
+<author>bailey27</author>
+<date>2012-09-01T22:11:03.805280Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>598</size>
+<commit
+   revision="1872">
+<author>bailey27</author>
+<date>2012-09-01T22:11:03.805280Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4396">
+<author>bailey27</author>
+<date>2012-09-16T23:57:50.681266Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.classpath</name>
+<size>373</size>
+<commit
+   revision="3087">
+<author>bailey27</author>
+<date>2012-09-09T22:00:22.774476Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.project</name>
+<size>389</size>
+<commit
+   revision="3087">
+<author>bailey27</author>
+<date>2012-09-09T22:00:22.774476Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Code</name>
+<commit
+   revision="4394">
+<author>bailey27</author>
+<date>2012-09-16T23:42:01.242357Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/AStarSolving.java</name>
+<size>1080</size>
+<commit
+   revision="3844">
+<author>bailey27</author>
+<date>2012-09-13T23:51:19.984933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/DJikstraSolving.java</name>
+<size>904</size>
+<commit
+   revision="3844">
+<author>bailey27</author>
+<date>2012-09-13T23:51:19.984933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/DiagonalEstCost.java</name>
+<size>728</size>
+<commit
+   revision="3302">
+<author>bailey27</author>
+<date>2012-09-12T04:19:34.872112Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/DistanceMethods.java</name>
+<size>1140</size>
+<commit
+   revision="4223">
+<author>bailey27</author>
+<date>2012-09-14T19:27:00.398749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/EstimatedCost.java</name>
+<size>281</size>
+<commit
+   revision="3302">
+<author>bailey27</author>
+<date>2012-09-12T04:19:34.872112Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/EuclideanEstimatedCost.java</name>
+<size>525</size>
+<commit
+   revision="3302">
+<author>bailey27</author>
+<date>2012-09-12T04:19:34.872112Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/ManhattanEstCost.java</name>
+<size>603</size>
+<commit
+   revision="3302">
+<author>bailey27</author>
+<date>2012-09-12T04:19:34.872112Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/Mazes.java</name>
+<size>6241</size>
+<commit
+   revision="3844">
+<author>bailey27</author>
+<date>2012-09-13T23:51:19.984933Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/Nodes.java</name>
+<size>6740</size>
+<commit
+   revision="3213">
+<author>bailey27</author>
+<date>2012-09-11T05:22:31.420417Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/Position.java</name>
+<size>280</size>
+<commit
+   revision="3184">
+<author>bailey27</author>
+<date>2012-09-11T03:02:26.130586Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Code/SolvingAlgorithm.java</name>
+<size>287</size>
+<commit
+   revision="3470">
+<author>bailey27</author>
+<date>2012-09-13T02:13:44.191600Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>79571</size>
+<commit
+   revision="3224">
+<author>bailey27</author>
+<date>2012-09-11T05:48:35.530907Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Main</name>
+<commit
+   revision="4396">
+<author>bailey27</author>
+<date>2012-09-16T23:57:50.681266Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Main/MazePrinting.java</name>
+<size>2508</size>
+<commit
+   revision="4396">
+<author>bailey27</author>
+<date>2012-09-16T23:57:50.681266Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/Tests</name>
+<commit
+   revision="4223">
+<author>bailey27</author>
+<date>2012-09-14T19:27:00.398749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Tests/AStarTest.java</name>
+<size>3535</size>
+<commit
+   revision="4223">
+<author>bailey27</author>
+<date>2012-09-14T19:27:00.398749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Tests/DistanceTests.java</name>
+<size>7909</size>
+<commit
+   revision="3374">
+<author>bailey27</author>
+<date>2012-09-12T22:01:02.172797Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Tests/DjikstraTest.java</name>
+<size>3614</size>
+<commit
+   revision="4223">
+<author>bailey27</author>
+<date>2012-09-14T19:27:00.398749Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Tests/MazeTests.java</name>
+<size>6890</size>
+<commit
+   revision="3374">
+<author>bailey27</author>
+<date>2012-09-12T22:01:02.172797Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Tests/NodeTests.java</name>
+<size>9810</size>
+<commit
+   revision="3374">
+<author>bailey27</author>
+<date>2012-09-12T22:01:02.172797Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Tests/TestGroup.java</name>
+<size>357</size>
+<commit
+   revision="3374">
+<author>bailey27</author>
+<date>2012-09-12T22:01:02.172797Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5872">
+<author>bailey27</author>
+<date>2012-09-26T19:08:57.136990Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.classpath</name>
+<size>461</size>
+<commit
+   revision="4496">
+<author>bailey27</author>
+<date>2012-09-18T06:05:02.604139Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.project</name>
+<size>389</size>
+<commit
+   revision="4397">
+<author>bailey27</author>
+<date>2012-09-16T23:59:14.438953Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Code</name>
+<commit
+   revision="5867">
+<author>bailey27</author>
+<date>2012-09-26T19:07:35.142100Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/AStarSolving.java</name>
+<size>1652</size>
+<commit
+   revision="5449">
+<author>bailey27</author>
+<date>2012-09-21T20:11:34.776236Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/DiagonalEstCost.java</name>
+<size>730</size>
+<commit
+   revision="4563">
+<author>bailey27</author>
+<date>2012-09-19T04:38:28.130424Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/DijkstraSolving.java</name>
+<size>921</size>
+<commit
+   revision="5867">
+<author>bailey27</author>
+<date>2012-09-26T19:07:35.142100Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/DistanceMethods.java</name>
+<size>3057</size>
+<commit
+   revision="5428">
+<author>bailey27</author>
+<date>2012-09-21T19:05:32.519786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/EstimatedCost.java</name>
+<size>281</size>
+<commit
+   revision="3302">
+<author>bailey27</author>
+<date>2012-09-12T04:19:34.872112Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/EuclideanEstimatedCost.java</name>
+<size>527</size>
+<commit
+   revision="4563">
+<author>bailey27</author>
+<date>2012-09-19T04:38:28.130424Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/ManhattanEstCost.java</name>
+<size>602</size>
+<commit
+   revision="4563">
+<author>bailey27</author>
+<date>2012-09-19T04:38:28.130424Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/Mazes.java</name>
+<size>7619</size>
+<commit
+   revision="5428">
+<author>bailey27</author>
+<date>2012-09-21T19:05:32.519786Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/Nodes.java</name>
+<size>6801</size>
+<commit
+   revision="4667">
+<author>bailey27</author>
+<date>2012-09-19T23:20:56.937375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/Position.java</name>
+<size>280</size>
+<commit
+   revision="3184">
+<author>bailey27</author>
+<date>2012-09-11T03:02:26.130586Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/SolvingAlgorithm.java</name>
+<size>303</size>
+<commit
+   revision="4496">
+<author>bailey27</author>
+<date>2012-09-18T06:05:02.604139Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Code/UserInterface.java</name>
+<size>6871</size>
+<commit
+   revision="5865">
+<author>bailey27</author>
+<date>2012-09-26T19:04:09.596782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>79571</size>
+<commit
+   revision="4397">
+<author>bailey27</author>
+<date>2012-09-16T23:59:14.438953Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Main</name>
+<commit
+   revision="5865">
+<author>bailey27</author>
+<date>2012-09-26T19:04:09.596782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Main/MazePrinting.java</name>
+<size>2840</size>
+<commit
+   revision="5865">
+<author>bailey27</author>
+<date>2012-09-26T19:04:09.596782Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/MockTests</name>
+<commit
+   revision="5865">
+<author>bailey27</author>
+<date>2012-09-26T19:04:09.596782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/MockTests/MockTests.java</name>
+<size>1781</size>
+<commit
+   revision="5865">
+<author>bailey27</author>
+<date>2012-09-26T19:04:09.596782Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/Tests</name>
+<commit
+   revision="5449">
+<author>bailey27</author>
+<date>2012-09-21T20:11:34.776236Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Tests/AStarTest.java</name>
+<size>3512</size>
+<commit
+   revision="4667">
+<author>bailey27</author>
+<date>2012-09-19T23:20:56.937375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Tests/DistanceTests.java</name>
+<size>7909</size>
+<commit
+   revision="3374">
+<author>bailey27</author>
+<date>2012-09-12T22:01:02.172797Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Tests/DjikstraTest.java</name>
+<size>3617</size>
+<commit
+   revision="4803">
+<author>bailey27</author>
+<date>2012-09-20T04:58:24.303106Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Tests/MazeTests.java</name>
+<size>6861</size>
+<commit
+   revision="5449">
+<author>bailey27</author>
+<date>2012-09-21T20:11:34.776236Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Tests/NodeTests.java</name>
+<size>9819</size>
+<commit
+   revision="4667">
+<author>bailey27</author>
+<date>2012-09-19T23:20:56.937375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Tests/TestGroup.java</name>
+<size>413</size>
+<commit
+   revision="5449">
+<author>bailey27</author>
+<date>2012-09-21T20:11:34.776236Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Tests/TestUserInterface.java</name>
+<size>2668</size>
+<commit
+   revision="5428">
+<author>bailey27</author>
+<date>2012-09-21T19:05:32.519786Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3</name>
+<commit
+   revision="6354">
+<author>bailey27</author>
+<date>2012-09-28T20:47:15.268404Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/.classpath</name>
+<size>461</size>
+<commit
+   revision="5873">
+<author>bailey27</author>
+<date>2012-09-26T19:09:21.322616Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/.project</name>
+<size>389</size>
+<commit
+   revision="5873">
+<author>bailey27</author>
+<date>2012-09-26T19:09:21.322616Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/Code</name>
+<commit
+   revision="6354">
+<author>bailey27</author>
+<date>2012-09-28T20:47:15.268404Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/AStarSolving.java</name>
+<size>1653</size>
+<commit
+   revision="6138">
+<author>bailey27</author>
+<date>2012-09-28T02:41:16.229116Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/Controller.java</name>
+<size>5156</size>
+<commit
+   revision="6354">
+<author>bailey27</author>
+<date>2012-09-28T20:47:15.268404Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/DiagonalEstCost.java</name>
+<size>730</size>
+<commit
+   revision="4563">
+<author>bailey27</author>
+<date>2012-09-19T04:38:28.130424Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/DijkstraSolving.java</name>
+<size>921</size>
+<commit
+   revision="5867">
+<author>bailey27</author>
+<date>2012-09-26T19:07:35.142100Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/DistanceMethods.java</name>
+<size>3080</size>
+<commit
+   revision="6191">
+<author>bailey27</author>
+<date>2012-09-28T07:24:07.117190Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/EstimatedCost.java</name>
+<size>281</size>
+<commit
+   revision="3302">
+<author>bailey27</author>
+<date>2012-09-12T04:19:34.872112Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/EuclideanEstimatedCost.java</name>
+<size>527</size>
+<commit
+   revision="4563">
+<author>bailey27</author>
+<date>2012-09-19T04:38:28.130424Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/ManhattanEstCost.java</name>
+<size>602</size>
+<commit
+   revision="4563">
+<author>bailey27</author>
+<date>2012-09-19T04:38:28.130424Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/Mazes.java</name>
+<size>7637</size>
+<commit
+   revision="6162">
+<author>bailey27</author>
+<date>2012-09-28T04:43:20.687789Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/Nodes.java</name>
+<size>6801</size>
+<commit
+   revision="4667">
+<author>bailey27</author>
+<date>2012-09-19T23:20:56.937375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/Position.java</name>
+<size>494</size>
+<commit
+   revision="6287">
+<author>bailey27</author>
+<date>2012-09-28T15:34:57.667656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/SolvingAlgorithm.java</name>
+<size>303</size>
+<commit
+   revision="4496">
+<author>bailey27</author>
+<date>2012-09-18T06:05:02.604139Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/UserGuiView.java</name>
+<size>7130</size>
+<commit
+   revision="6352">
+<author>bailey27</author>
+<date>2012-09-28T20:41:32.743923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Code/UserInterface.java</name>
+<size>9047</size>
+<commit
+   revision="6344">
+<author>bailey27</author>
+<date>2012-09-28T19:54:01.635026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Doxyfile</name>
+<size>79571</size>
+<commit
+   revision="5873">
+<author>bailey27</author>
+<date>2012-09-26T19:09:21.322616Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/Main</name>
+<commit
+   revision="6344">
+<author>bailey27</author>
+<date>2012-09-28T19:54:01.635026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Main/MazePrinting.java</name>
+<size>2968</size>
+<commit
+   revision="6344">
+<author>bailey27</author>
+<date>2012-09-28T19:54:01.635026Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/MockTests</name>
+<commit
+   revision="6344">
+<author>bailey27</author>
+<date>2012-09-28T19:54:01.635026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/MockTests/MockTests.java</name>
+<size>7808</size>
+<commit
+   revision="6344">
+<author>bailey27</author>
+<date>2012-09-28T19:54:01.635026Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.3/Tests</name>
+<commit
+   revision="6352">
+<author>bailey27</author>
+<date>2012-09-28T20:41:32.743923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Tests/AStarTest.java</name>
+<size>3512</size>
+<commit
+   revision="4667">
+<author>bailey27</author>
+<date>2012-09-19T23:20:56.937375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Tests/DistanceTests.java</name>
+<size>7909</size>
+<commit
+   revision="3374">
+<author>bailey27</author>
+<date>2012-09-12T22:01:02.172797Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Tests/DjikstraTest.java</name>
+<size>3617</size>
+<commit
+   revision="4803">
+<author>bailey27</author>
+<date>2012-09-20T04:58:24.303106Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Tests/MazeTests.java</name>
+<size>6861</size>
+<commit
+   revision="5449">
+<author>bailey27</author>
+<date>2012-09-21T20:11:34.776236Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Tests/NodeTests.java</name>
+<size>9819</size>
+<commit
+   revision="4667">
+<author>bailey27</author>
+<date>2012-09-19T23:20:56.937375Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Tests/TestGroup.java</name>
+<size>433</size>
+<commit
+   revision="6352">
+<author>bailey27</author>
+<date>2012-09-28T20:41:32.743923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Tests/TestUserInterface.java</name>
+<size>2693</size>
+<commit
+   revision="6344">
+<author>bailey27</author>
+<date>2012-09-28T19:54:01.635026Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.3/Tests/ViewTests.java</name>
+<size>3583</size>
+<commit
+   revision="6352">
+<author>bailey27</author>
+<date>2012-09-28T20:41:32.743923Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="7223">
+<author>bailey27</author>
+<date>2012-10-09T00:34:51.209058Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.project</name>
+<size>384</size>
+<commit
+   revision="6459">
+<author>bailey27</author>
+<date>2012-10-01T06:22:15.665925Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.pydevproject</name>
+<size>429</size>
+<commit
+   revision="6459">
+<author>bailey27</author>
+<date>2012-10-01T06:22:15.665925Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/Code</name>
+<commit
+   revision="7111">
+<author>bailey27</author>
+<date>2012-10-05T21:19:08.936256Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Code/AdjCity.py</name>
+<size>421</size>
+<commit
+   revision="7070">
+<author>bailey27</author>
+<date>2012-10-05T18:57:28.004039Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Code/Airline.py</name>
+<size>5449</size>
+<commit
+   revision="7103">
+<author>bailey27</author>
+<date>2012-10-05T20:34:22.803616Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Code/Airport.py</name>
+<size>1733</size>
+<commit
+   revision="7070">
+<author>bailey27</author>
+<date>2012-10-05T18:57:28.004039Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Code/UserInterface.py</name>
+<size>2517</size>
+<commit
+   revision="7103">
+<author>bailey27</author>
+<date>2012-10-05T20:34:22.803616Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Code/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6459">
+<author>bailey27</author>
+<date>2012-10-01T06:22:15.665925Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/Main</name>
+<commit
+   revision="7111">
+<author>bailey27</author>
+<date>2012-10-05T21:19:08.936256Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Main/Main.py</name>
+<size>935</size>
+<commit
+   revision="7111">
+<author>bailey27</author>
+<date>2012-10-05T21:19:08.936256Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Main/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7111">
+<author>bailey27</author>
+<date>2012-10-05T21:19:08.936256Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/Tests</name>
+<commit
+   revision="7111">
+<author>bailey27</author>
+<date>2012-10-05T21:19:08.936256Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Tests/TestAirline.py</name>
+<size>6791</size>
+<commit
+   revision="7111">
+<author>bailey27</author>
+<date>2012-10-05T21:19:08.936256Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Tests/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7104">
+<author>bailey27</author>
+<date>2012-10-05T20:34:32.816768Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.project</name>
+<size>384</size>
+<commit
+   revision="7227">
+<author>bailey27</author>
+<date>2012-10-09T00:36:32.862090Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.pydevproject</name>
+<size>429</size>
+<commit
+   revision="7228">
+<author>bailey27</author>
+<date>2012-10-09T00:37:17.954702Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Code</name>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Code/AdjCity.py</name>
+<size>435</size>
+<commit
+   revision="7410">
+<author>bailey27</author>
+<date>2012-10-10T21:30:50.757082Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Code/Airline.py</name>
+<size>5838</size>
+<commit
+   revision="7809">
+<author>bailey27</author>
+<date>2012-10-12T08:25:54.439219Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Code/Airport.py</name>
+<size>1767</size>
+<commit
+   revision="7410">
+<author>bailey27</author>
+<date>2012-10-10T21:30:50.757082Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Code/Route.py</name>
+<size>411</size>
+<commit
+   revision="7809">
+<author>bailey27</author>
+<date>2012-10-12T08:25:54.439219Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Code/UpdateAirport.py</name>
+<size>11585</size>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Code/UserInterface.py</name>
+<size>18969</size>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Code/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6459">
+<author>bailey27</author>
+<date>2012-10-01T06:22:15.665925Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Main</name>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Main/Main.py</name>
+<size>2489</size>
+<commit
+   revision="7809">
+<author>bailey27</author>
+<date>2012-10-12T08:25:54.439219Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Main/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7111">
+<author>bailey27</author>
+<date>2012-10-05T21:19:08.936256Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Main/er.json</name>
+<size>16293</size>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Main/newfile.json</name>
+<size>0</size>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/Tests</name>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/TestAirline.py</name>
+<size>7729</size>
+<commit
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Tests/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7104">
+<author>bailey27</author>
+<date>2012-10-05T20:34:32.816768Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="769">
+<author>bailey27</author>
+<date>2012-08-30T02:20:47.383661Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="717">
+<author>bailey27</author>
+<date>2012-08-30T01:52:51.973564Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="750">
+<author>bailey27</author>
+<date>2012-08-30T02:09:00.857857Z</date>
+</commit>
+</entry>
+</list>
+</lists>

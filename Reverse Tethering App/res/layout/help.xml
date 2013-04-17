@@ -1,0 +1,136 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash" >
+
+    <!-- Creates a basic text field to show the title of the app -->
+
+
+    <!-- Creates the submit button with submit on it as text -->
+
+
+    <!--
+    Creates the input field for the user,
+    using a hint field so it's text that goes
+    away upon input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    -->
+
+
+    <!-- Lists the members of my group for this project -->
+
+
+    <!--
+    Lists myself as the author of this beautiful app
+    Yeah, it's vanity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    -->
+
+
+    <!-- The checkbox to establish if the user wants to fetch CSS -->
+
+
+    <!-- The textbox to establish if the user wants to fetch images -->
+
+
+    <!-- The text prompting the user to get the images -->
+
+
+    <!-- The text prompting the user toe choose on CSS -->
+
+
+    <!-- The text prompting the user to choose on javascript -->
+
+
+    <!-- The check box for the user's selectin on javascript -->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:text="242 Final Project Tutorial -- Click A Button To See What That Field Does"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/urltutorial"
+        style="@style/ButtonText"
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/blue_button"
+        android:text="URL Input?" />
+
+    <Button
+        android:id="@+id/csstutorial"
+        style="@style/ButtonText"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="114dp"
+        android:background="@drawable/blue_button"
+        android:text="CSS?" />
+
+    <Button
+        android:id="@+id/imagestutorial"
+        style="@style/ButtonText"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/blue_button"
+        android:text="Images?" />
+
+    <Button
+        android:id="@+id/jstutorial"
+        style="@style/ButtonText"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/imagestutorial"
+        android:layout_alignBottom="@+id/imagestutorial"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/blue_button"
+        android:text="JavaScript?" />
+
+    <Button
+        android:id="@+id/sizetutorial"
+        style="@style/ButtonText"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/jstutorial"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/blue_button"
+        android:text="Maximum Page Size?" />
+
+</RelativeLayout>

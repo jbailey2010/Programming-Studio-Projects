@@ -1,0 +1,2383 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7986">
+<author>bailey27</author>
+<date>2012-10-12T21:08:07.087448Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Tests/TestAirline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.1/Main/er.json</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UpdateAirport.py</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.1/Main/newfile.json</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7882">
+<author>bailey27</author>
+<date>2012-10-12T15:33:04.152249Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UpdateAirport.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7809">
+<author>bailey27</author>
+<date>2012-10-12T08:25:54.439219Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Route.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Main/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UpdateAirport.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7791">
+<author>bailey27</author>
+<date>2012-10-12T06:31:58.556819Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7776">
+<author>bailey27</author>
+<date>2012-10-12T05:15:08.687055Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Main/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UpdateAirport.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7529">
+<author>bailey27</author>
+<date>2012-10-11T07:23:33.444428Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Main/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UpdateAirport.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7513">
+<author>bailey27</author>
+<date>2012-10-11T06:28:55.459553Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airline.py</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.1/Code/UpdateAirport.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7510">
+<author>bailey27</author>
+<date>2012-10-11T06:11:32.524689Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Route.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Main/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airline.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7410">
+<author>bailey27</author>
+<date>2012-10-10T21:30:50.757082Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.1/Code/Route.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Main/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airport.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/AdjCity.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7352">
+<author>bailey27</author>
+<date>2012-10-10T06:44:13.446993Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Main/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airline.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7346">
+<author>bailey27</author>
+<date>2012-10-10T05:56:46.893213Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Main/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/Airline.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7254">
+<author>bailey27</author>
+<date>2012-10-09T05:32:07.620008Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Tests/TestAirline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Main/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.1/Code/UserInterface.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7228">
+<author>bailey27</author>
+<date>2012-10-09T00:37:17.954702Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment2.0/.pydevproject"
+   copyfrom-rev="7227"
+   action="A">/bailey27/Assignment2.1/.pydevproject</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7227">
+<author>bailey27</author>
+<date>2012-10-09T00:36:32.862090Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment2.0/.project"
+   copyfrom-rev="7226"
+   action="A">/bailey27/Assignment2.1/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7226">
+<author>bailey27</author>
+<date>2012-10-09T00:36:13.238689Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment2.0/Code"
+   copyfrom-rev="7225"
+   action="A">/bailey27/Assignment2.1/Code</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7225">
+<author>bailey27</author>
+<date>2012-10-09T00:35:43.900115Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment2.0/Main"
+   copyfrom-rev="7224"
+   action="A">/bailey27/Assignment2.1/Main</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7224">
+<author>bailey27</author>
+<date>2012-10-09T00:35:20.672058Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment2.0/Tests"
+   copyfrom-rev="7223"
+   action="A">/bailey27/Assignment2.1/Tests</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7223">
+<author>bailey27</author>
+<date>2012-10-09T00:34:51.209058Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment2.0/Assignment2.1"
+   copyfrom-rev="7222"
+   action="A">/bailey27/Assignment2.1</path>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment2.0/Assignment2.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7222">
+<author>bailey27</author>
+<date>2012-10-09T00:34:33.547822Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment2.0/Assignment2.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7111">
+<author>bailey27</author>
+<date>2012-10-05T21:19:08.936256Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Main/__init__.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Tests/TestAirline.py</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment2.0/Code/Main.py"
+   copyfrom-rev="7103"
+   action="A">/bailey27/Assignment2.0/Main/Main.py</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment2.0/Main</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment2.0/Code/Main.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7104">
+<author>bailey27</author>
+<date>2012-10-05T20:34:32.816768Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Tests/TestAirline.py</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment2.0/Tests</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Tests/__init__.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7103">
+<author>bailey27</author>
+<date>2012-10-05T20:34:22.803616Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Main.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7070">
+<author>bailey27</author>
+<date>2012-10-05T18:57:28.004039Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airport.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Main.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/AdjCity.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7037">
+<author>bailey27</author>
+<date>2012-10-05T18:02:36.163223Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airport.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Main.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7031">
+<author>bailey27</author>
+<date>2012-10-05T17:22:58.556510Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Code/UserInterface.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Main.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6610">
+<author>bailey27</author>
+<date>2012-10-04T01:15:40.329196Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airport.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Main.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6579">
+<author>bailey27</author>
+<date>2012-10-03T20:48:38.879865Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airport.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airline.py</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Main.py</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Code/AdjCity.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6530">
+<author>bailey27</author>
+<date>2012-10-03T04:15:38.930475Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment2.0/Code/Airport.py</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Code/Airline.py</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Code/Main.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6459">
+<author>bailey27</author>
+<date>2012-10-01T06:22:15.665925Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment2.0/Code</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Code/__init__.py</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/Code/Airport.py</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment2.0/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6458">
+<author>bailey27</author>
+<date>2012-10-01T06:22:02.053280Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment2.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6354">
+<author>bailey27</author>
+<date>2012-09-28T20:47:15.268404Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/Controller.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6352">
+<author>bailey27</author>
+<date>2012-09-28T20:41:32.743923Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserGuiView.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/Controller.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Tests/TestGroup.java</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.3/Tests/ViewTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6345">
+<author>bailey27</author>
+<date>2012-09-28T19:57:00.072217Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserGuiView.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.3/Code/WrapLayout.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6344">
+<author>bailey27</author>
+<date>2012-09-28T19:54:01.635026Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.3/Code/UserGui.java"
+   copyfrom-rev="6222"
+   action="A">/bailey27/Assignment1.3/Code/UserGuiView.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/MockTests/MockTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.3/Code/UserGui.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/Controller.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Tests/TestUserInterface.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6287">
+<author>bailey27</author>
+<date>2012-09-28T15:34:57.667656Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/MockTests/MockTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/Position.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Tests/TestUserInterface.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6222">
+<author>bailey27</author>
+<date>2012-09-28T08:59:56.106445Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/Controller.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserGui.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6218">
+<author>bailey27</author>
+<date>2012-09-28T08:45:47.072298Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/Controller.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserGui.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6216">
+<author>bailey27</author>
+<date>2012-09-28T08:35:26.838100Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.3/Code/Controller.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserGui.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6191">
+<author>bailey27</author>
+<date>2012-09-28T07:24:07.117190Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/DistanceMethods.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserGui.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6162">
+<author>bailey27</author>
+<date>2012-09-28T04:43:20.687789Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/Mazes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/UserGui.java</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.3/Code/WrapLayout.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6138">
+<author>bailey27</author>
+<date>2012-09-28T02:41:16.229116Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.3/Code/UserGui.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/AStarSolving.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5878">
+<author>bailey27</author>
+<date>2012-09-26T19:12:16.392316Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.3/Code/AStarSolving.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5877">
+<author>bailey27</author>
+<date>2012-09-26T19:11:09.200977Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.2/Code"
+   copyfrom-rev="5876"
+   action="A">/bailey27/Assignment1.3/Code</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5876">
+<author>bailey27</author>
+<date>2012-09-26T19:10:28.822577Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.2/Main"
+   copyfrom-rev="5875"
+   action="A">/bailey27/Assignment1.3/Main</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5875">
+<author>bailey27</author>
+<date>2012-09-26T19:10:10.760113Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.2/MockTests"
+   copyfrom-rev="5874"
+   action="A">/bailey27/Assignment1.3/MockTests</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5874">
+<author>bailey27</author>
+<date>2012-09-26T19:09:39.633508Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.2/Tests"
+   copyfrom-rev="5873"
+   action="A">/bailey27/Assignment1.3/Tests</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5873">
+<author>bailey27</author>
+<date>2012-09-26T19:09:21.322616Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.2/.classpath"
+   copyfrom-rev="5872"
+   action="A">/bailey27/Assignment1.3/.classpath</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.2/Doxyfile"
+   copyfrom-rev="5872"
+   action="A">/bailey27/Assignment1.3/Doxyfile</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.2/.project"
+   copyfrom-rev="5872"
+   action="A">/bailey27/Assignment1.3/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5872">
+<author>bailey27</author>
+<date>2012-09-26T19:08:57.136990Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.2/Assignment1.3</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5871">
+<author>bailey27</author>
+<date>2012-09-26T19:08:50.229487Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.3/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5870">
+<author>bailey27</author>
+<date>2012-09-26T19:08:43.474788Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.3/Assignment1.2/Assignment1.3</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5869">
+<author>bailey27</author>
+<date>2012-09-26T19:08:21.042706Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.2"
+   copyfrom-rev="5868"
+   action="A">/bailey27/Assignment1.3/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5868">
+<author>bailey27</author>
+<date>2012-09-26T19:08:02.498588Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.3</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5867">
+<author>bailey27</author>
+<date>2012-09-26T19:07:35.142100Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/DijkstraSolving.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5866">
+<author>bailey27</author>
+<date>2012-09-26T19:06:30.654247Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.2/Assignment1.3</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5865">
+<author>bailey27</author>
+<date>2012-09-26T19:04:09.596782Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/UserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/MockTests/MockTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5472">
+<author>bailey27</author>
+<date>2012-09-21T21:07:32.799053Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/UserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/MockTests/MockTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5450">
+<author>bailey27</author>
+<date>2012-09-21T20:12:45.089401Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/UserInterface.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5449">
+<author>bailey27</author>
+<date>2012-09-21T20:11:34.776236Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/UserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/TestGroup.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/MazeTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/AStarSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/MockTests/MockTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5428">
+<author>bailey27</author>
+<date>2012-09-21T19:05:32.519786Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/Mazes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/UserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Main/MazePrinting.java</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.2/MockTests</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/MazeTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/TestUserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/DistanceMethods.java</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.2/MockTests/MockTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4803">
+<author>bailey27</author>
+<date>2012-09-20T04:58:24.303106Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/UserInterface.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/DjikstraTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/TestGroup.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4802">
+<author>bailey27</author>
+<date>2012-09-20T04:57:31.339126Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.2/Tests/TestUserInterface.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4766">
+<author>bailey27</author>
+<date>2012-09-20T04:06:21.221340Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.2/Code/UserInterface.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4720">
+<author>bailey27</author>
+<date>2012-09-20T02:42:29.466674Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/Mazes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Main/MazePrinting.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4667">
+<author>bailey27</author>
+<date>2012-09-19T23:20:56.937375Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/Mazes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/NodeTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/DjikstraTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/Nodes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/AStarSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/DistanceMethods.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4563">
+<author>bailey27</author>
+<date>2012-09-19T04:38:28.130424Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/Mazes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/ManhattanEstCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/EuclideanEstimatedCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/DiagonalEstCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/Nodes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/AStarSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/DistanceMethods.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4496">
+<author>bailey27</author>
+<date>2012-09-18T06:05:02.604139Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/Mazes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/DjikstraTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/TestGroup.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/.classpath</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Tests/MazeTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/Nodes.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/SolvingAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/AStarSolving.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.2/Code/DJikstraSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Code/DistanceMethods.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4485">
+<author>bailey27</author>
+<date>2012-09-18T04:35:41.170003Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.2/Code/DJikstraSolving.java"
+   copyfrom-rev="4397"
+   action="A">/bailey27/Assignment1.2/Code/DijkstraSolving.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4398">
+<author>bailey27</author>
+<date>2012-09-17T00:00:26.292888Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.2/Main/MazePrinting.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4397">
+<author>bailey27</author>
+<date>2012-09-16T23:59:14.438953Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.1/Code"
+   copyfrom-rev="4396"
+   action="A">/bailey27/Assignment1.2/Code</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/.classpath"
+   copyfrom-rev="4396"
+   action="A">/bailey27/Assignment1.2/.classpath</path>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.1/Tests"
+   copyfrom-rev="4396"
+   action="A">/bailey27/Assignment1.2/Tests</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Doxyfile"
+   copyfrom-rev="4396"
+   action="A">/bailey27/Assignment1.2/Doxyfile</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/.project"
+   copyfrom-rev="4396"
+   action="A">/bailey27/Assignment1.2/.project</path>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.1/Main"
+   copyfrom-rev="4396"
+   action="A">/bailey27/Assignment1.2/Main</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4396">
+<author>bailey27</author>
+<date>2012-09-16T23:57:50.681266Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4394">
+<author>bailey27</author>
+<date>2012-09-16T23:42:01.242357Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.2/Code"
+   copyfrom-rev="4393"
+   action="A">/bailey27/Assignment1.1/Code</path>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.2/Code</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4393">
+<author>bailey27</author>
+<date>2012-09-16T23:41:34.961554Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.1/Code</path>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.1/Code"
+   copyfrom-rev="4392"
+   action="A">/bailey27/Assignment1.2/Code</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4392">
+<author>bailey27</author>
+<date>2012-09-16T23:40:37.128467Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4223">
+<author>bailey27</author>
+<date>2012-09-14T19:27:00.398749Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/DjikstraTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DistanceMethods.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3899">
+<author>bailey27</author>
+<date>2012-09-14T03:58:14.960869Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3844">
+<author>bailey27</author>
+<date>2012-09-13T23:51:19.984933Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/DjikstraTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/AStarSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DJikstraSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DistanceMethods.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/Mazes.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3471">
+<author>bailey27</author>
+<date>2012-09-13T02:14:14.138352Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/DjikstraTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3470">
+<author>bailey27</author>
+<date>2012-09-13T02:13:44.191600Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/SolvingAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DistanceMethods.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/Mazes.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3374">
+<author>bailey27</author>
+<date>2012-09-12T22:01:02.172797Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/NodeTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/DjikstraTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/TestGroup.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/DistanceTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/MazeTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/SolvingAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DJikstraSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DistanceMethods.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/Mazes.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3302">
+<author>bailey27</author>
+<date>2012-09-12T04:19:34.872112Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/ManhattanEstCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/EuclideanEstimatedCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DiagonalEstCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/TestGroup.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/DistanceTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/MazeTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/EstimatedCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/AStarSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DJikstraSolving.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DistanceMethods.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3301">
+<author>bailey27</author>
+<date>2012-09-12T04:17:53.042736Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Tests/DjikstraTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3297">
+<author>bailey27</author>
+<date>2012-09-12T03:36:58.050018Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/SolvingAlgorithm.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3296">
+<author>bailey27</author>
+<date>2012-09-12T03:36:49.849034Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/DJikstraSolving.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3295">
+<author>bailey27</author>
+<date>2012-09-12T03:36:41.750237Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/AStarSolving.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3226">
+<author>bailey27</author>
+<date>2012-09-11T06:01:31.866547Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/DistanceTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3225">
+<author>bailey27</author>
+<date>2012-09-11T05:49:54.939873Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/AStar.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3224">
+<author>bailey27</author>
+<date>2012-09-11T05:48:35.530907Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Doxyfile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3223">
+<author>bailey27</author>
+<date>2012-09-11T05:35:40.261190Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/ManhattanEstCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/EuclideanEstimatedCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DiagonalEstCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Tests/DistanceTests.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/EstimatedCost.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/DistanceMethods.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.1/Code/Mazes.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3222">
+<author>bailey27</author>
+<date>2012-09-11T05:30:09.589138Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/TestSuite.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3221">
+<author>bailey27</author>
+<date>2012-09-11T05:29:48.666645Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Tests/TestSuite.java"
+   copyfrom-rev="3110"
+   action="A">/bailey27/Assignment1.1/Tests/TestGroup.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3220">
+<author>bailey27</author>
+<date>2012-09-11T05:27:05.696336Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/NodeTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3219">
+<author>bailey27</author>
+<date>2012-09-11T05:26:52.134488Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/MazeTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3218">
+<author>bailey27</author>
+<date>2012-09-11T05:26:17.762652Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Tests/NodeTest.java"
+   copyfrom-rev="3110"
+   action="A">/bailey27/Assignment1.1/Tests/NodeTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3217">
+<author>bailey27</author>
+<date>2012-09-11T05:26:09.601886Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Tests/MazeTest.java"
+   copyfrom-rev="3110"
+   action="A">/bailey27/Assignment1.1/Tests/MazeTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3216">
+<author>bailey27</author>
+<date>2012-09-11T05:24:50.037154Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/AStarSolver.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3215">
+<author>bailey27</author>
+<date>2012-09-11T05:24:28.859988Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Tests/AStarSolver.java"
+   copyfrom-rev="3110"
+   action="A">/bailey27/Assignment1.1/Tests/AStarTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3214">
+<author>bailey27</author>
+<date>2012-09-11T05:22:54.324372Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/Node.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3213">
+<author>bailey27</author>
+<date>2012-09-11T05:22:31.420417Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Code/Node.java"
+   copyfrom-rev="3110"
+   action="A">/bailey27/Assignment1.1/Code/Nodes.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3212">
+<author>bailey27</author>
+<date>2012-09-11T05:19:34.098274Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/EuclideanEstimatedCost.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3211">
+<author>bailey27</author>
+<date>2012-09-11T05:19:12.511270Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/MazeC.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3210">
+<author>bailey27</author>
+<date>2012-09-11T05:01:52.878268Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/Mazes.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3209">
+<author>bailey27</author>
+<date>2012-09-11T05:00:59.220930Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Code/Maze.java"
+   copyfrom-rev="3206"
+   action="A">/bailey27/Assignment1.1/Code/MazeC.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3208">
+<author>bailey27</author>
+<date>2012-09-11T05:00:07.296622Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/Maze.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3206">
+<author>bailey27</author>
+<date>2012-09-11T04:53:23.911854Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/ManhattanEstCost.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3205">
+<author>bailey27</author>
+<date>2012-09-11T04:53:16.137113Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/EstimatedCost.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3204">
+<author>bailey27</author>
+<date>2012-09-11T04:53:07.828988Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Code/AStar.java"
+   copyfrom-rev="3110"
+   action="A">/bailey27/Assignment1.1/Code/DistanceMethods.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3203">
+<author>bailey27</author>
+<date>2012-09-11T04:52:59.125568Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/DiagonalEstCost.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3202">
+<author>bailey27</author>
+<date>2012-09-11T04:52:44.602057Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Tests/DistanceTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3186">
+<author>bailey27</author>
+<date>2012-09-11T03:24:59.962665Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Doxyfile</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3184">
+<author>bailey27</author>
+<date>2012-09-11T03:02:26.130586Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Code/Position.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3183">
+<author>bailey27</author>
+<date>2012-09-11T03:02:06.606435Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/Main/MazePrinting.java</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.1/Main</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3110">
+<author>bailey27</author>
+<date>2012-09-10T01:19:40.745428Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/nodeTest.class</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/testSuite.class</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/mazeTest.class</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/node.class</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Code/aStar.java"
+   copyfrom-rev="3088"
+   action="A">/bailey27/Assignment1.1/Code/AStar.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/aStar.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/nodeTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Tests/nodeTest.java"
+   copyfrom-rev="3088"
+   action="A">/bailey27/Assignment1.1/Tests/NodeTest.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/maze.class</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/testSuite.java</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Tests/testSuite.java"
+   copyfrom-rev="3088"
+   action="A">/bailey27/Assignment1.1/Tests/TestSuite.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/aStarSolver.class</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/mazeTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Tests/mazeTest.java"
+   copyfrom-rev="3088"
+   action="A">/bailey27/Assignment1.1/Tests/MazeTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Code/node.java"
+   copyfrom-rev="3088"
+   action="A">/bailey27/Assignment1.1/Code/Node.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/node.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/maze.java</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Code/maze.java"
+   copyfrom-rev="3088"
+   action="A">/bailey27/Assignment1.1/Code/Maze.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Tests/aStarSolver.java</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.1/Tests/aStarSolver.java"
+   copyfrom-rev="3088"
+   action="A">/bailey27/Assignment1.1/Tests/AStarSolver.java</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/Code/aStar.class</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3088">
+<author>bailey27</author>
+<date>2012-09-09T22:00:58.877341Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.0/Code"
+   copyfrom-rev="3087"
+   action="A">/bailey27/Assignment1.1/Code</path>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.0/Tests</path>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/Assignment1.0/Tests"
+   copyfrom-rev="3087"
+   action="A">/bailey27/Assignment1.1/Tests</path>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.0/Code</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3087">
+<author>bailey27</author>
+<date>2012-09-09T22:00:22.774476Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.0/.classpath"
+   copyfrom-rev="3086"
+   action="A">/bailey27/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.0/.project</path>
+<path
+   kind="file"
+   copyfrom-path="/bailey27/Assignment1.0/.project"
+   copyfrom-rev="3086"
+   action="A">/bailey27/Assignment1.1/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3086">
+<author>bailey27</author>
+<date>2012-09-09T21:59:56.312572Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="D">/bailey27/Assignment1.1/.project</path>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.1/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3084">
+<author>bailey27</author>
+<date>2012-09-09T21:57:13.088669Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Tests/testSuite.class</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Code/maze.java</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Code/aStar.class</path>
+</paths>
+<msg>Test</msg>
+</logentry>
+<logentry
+   revision="3083">
+<author>bailey27</author>
+<date>2012-09-09T21:56:16.171631Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.1/.project</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.1/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3082">
+<author>bailey27</author>
+<date>2012-09-09T21:56:03.297890Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2884">
+<author>bailey27</author>
+<date>2012-09-07T18:41:57.226791Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Tests/aStarSolver.class</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Tests/nodeTest.class</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Tests/testSuite.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Tests/mazeTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Code/node.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Tests/mazeTest.class</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Code/node.class</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Code/aStar.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Code/maze.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Tests/aStarSolver.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Tests/nodeTest.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/Code/maze.class</path>
+</paths>
+<msg>Done ish</msg>
+</logentry>
+<logentry
+   revision="2567">
+<author>bailey27</author>
+<date>2012-09-06T18:41:29.926178Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Tests/aStarSolver.class</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Tests/nodeTest.class</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Tests/mazeTest.java</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Code/node.java</path>
+<path
+   kind="file"
+   action="M">/bailey27/Assignment1.0/.classpath</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.0/Tests</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Tests/mazeTest.class</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Code/node.class</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Code/maze.java</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Tests/aStarSolver.java</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Tests/nodeTest.java</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.0/Code</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/Code/maze.class</path>
+</paths>
+<msg>1.0 Done, maybe some cleaning up/testing needed</msg>
+</logentry>
+<logentry
+   revision="1872">
+<author>bailey27</author>
+<date>2012-09-01T22:11:03.805280Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.0/.settings</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment1.0/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1871">
+<author>bailey27</author>
+<date>2012-09-01T22:09:25.572044Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1870">
+<author>bailey27</author>
+<date>2012-09-01T22:09:08.556394Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/bailey27/trunk</path>
+</paths>
+<msg>Screw the trunk</msg>
+</logentry>
+<logentry
+   revision="1867">
+<author>bailey27</author>
+<date>2012-09-01T22:06:55.762649Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/trunk/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/bailey27/trunk/Assignment1.0/.settings</path>
+<path
+   kind="file"
+   action="A">/bailey27/trunk/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/bailey27/trunk/Assignment1.0/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1866">
+<author>bailey27</author>
+<date>2012-09-01T22:06:33.312018Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/trunk/Assignment1.0</path>
+</paths>
+<msg>Share project "Assignment1.0" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/bailey27"</msg>
+</logentry>
+<logentry
+   revision="1863">
+<author>bailey27</author>
+<date>2012-09-01T22:01:53.369658Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/bailey27/Assignment1.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1861">
+<author>bailey27</author>
+<date>2012-09-01T21:55:59.278903Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/bailey27/trunk/test</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1860">
+<author>bailey27</author>
+<date>2012-09-01T21:51:15.609174Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment1.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1859">
+<author>bailey27</author>
+<date>2012-09-01T21:49:39.360923Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/trunk/test/.classpath</path>
+<path
+   kind="file"
+   action="A">/bailey27/trunk/test/.project</path>
+<path
+   kind="dir"
+   action="A">/bailey27/trunk/test/src</path>
+<path
+   kind="file"
+   action="A">/bailey27/trunk/test/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/bailey27/trunk/test/.settings</path>
+<path
+   kind="file"
+   action="A">/bailey27/trunk/test/test</path>
+</paths>
+<msg>test</msg>
+</logentry>
+<logentry
+   revision="1858">
+<author>bailey27</author>
+<date>2012-09-01T21:49:23.569859Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/trunk/test</path>
+<path
+   kind="dir"
+   action="A">/bailey27/trunk</path>
+</paths>
+<msg>Share project "test" into "https://subversion.ews.illinois.edu/svn/fa12-cs242/bailey27"</msg>
+</logentry>
+<logentry
+   revision="865">
+<author>bailey27</author>
+<date>2012-08-30T03:25:18.994536Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27/Assignment0</path>
+<path
+   kind="file"
+   action="A">/bailey27/Assignment0/matching.php</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="769">
+<author>bailey27</author>
+<date>2012-08-30T02:20:47.383661Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/bailey27/grocery"
+   copyfrom-rev="768"
+   action="A">/bailey27/shopping</path>
+<path
+   kind="dir"
+   action="D">/bailey27/grocery</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="750">
+<author>bailey27</author>
+<date>2012-08-30T02:09:00.857857Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="749">
+<author>bailey27</author>
+<date>2012-08-30T02:06:49.138938Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="745">
+<author>bailey27</author>
+<date>2012-08-30T02:04:08.980474Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="733">
+<author>bailey27</author>
+<date>2012-08-30T01:59:39.870710Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="723">
+<author>bailey27</author>
+<date>2012-08-30T01:55:07.018969Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="717">
+<author>bailey27</author>
+<date>2012-08-30T01:52:51.973564Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/bailey27/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit'
+
+</msg>
+</logentry>
+<logentry
+   revision="712">
+<author>bailey27</author>
+<date>2012-08-30T01:48:36.550861Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/bailey27/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/bailey27/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/bailey27/grocery</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="18">
+<author>root</author>
+<date>2012-08-23T19:30:15.748888Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/bailey27</path>
+</paths>
+<msg>created directory bailey27</msg>
+</logentry>
+</log>

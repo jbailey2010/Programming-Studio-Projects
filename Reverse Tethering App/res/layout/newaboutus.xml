@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/devin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="72dp"
+        android:text="Devin Bhushan"
+        android:width="200px" 
+        style="@style/ButtonText"
+        android:background="@drawable/blue_button"/>
+
+    <Button
+        android:id="@+id/jeff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/devin"
+        android:layout_centerVertical="true"
+        android:text="Jeff Bailey"
+        android:width="200px" 
+         style="@style/ButtonText"
+        android:background="@drawable/blue_button"/>
+
+    <Button
+        android:id="@+id/sid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/jeff"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="90dp"
+        android:text="Siddharth Gandhi"
+        android:width="200px"
+        style="@style/ButtonText"
+        android:background="@drawable/blue_button" />
+
+</RelativeLayout>

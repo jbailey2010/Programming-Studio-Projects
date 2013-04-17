@@ -1,0 +1,447 @@
+package com.example.finalproject;
+import java.net.MalformedURLException;
+
+import android.widget.TextView;
+import android.app.Activity;
+import android.app.Dialog;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
+import android.view.View.OnClickListener;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
+import android.widget.ImageView;
+import android.widget.ProgressBar;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
+import android.widget.SeekBar;
+import android.widget.Toast;
+import android.view.View;
+import java.net.URISyntaxException;
+import java.net.URL;
+import java.util.Date;
+import android.widget.Button;
+import android.os.Bundle;
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.view.Menu;
+import android.widget.EditText;
+import android.widget.CompoundButton.OnCheckedChangeListener;
+/**
+ * The home page class, it basically does the front end of the back end 
+ * in terms of the input from the user
+ * @author Jeff
+ *
+ */
+public class Home extends Activity implements View.OnClickListener{
+	CheckBox satView;
+	final Context context = this;
+	private Button button;
+    TextView mProgressText;
+    TextView mTrackingText;
+    int size = 0;
+    private SharedPreferences prefs;
+
+	/**
+	 * The function that runs upon creation and sets the 'view' of the app
+	 * It then calls the next function, which gets the various data from 
+	 * the view itself. This makes an actionlistener that gets the data
+	 * from the text field and cleans it up, ultimately
+	 */
+    @Override
+    public void onCreate(Bundle savedInstanceState) 
+    {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_final__project);
+        prefs= getSharedPreferences("FinalPrefs", 0);
+        getPref();
+        Button btn = (Button)findViewById(R.id.button1);
+        btn.setOnClickListener(this);
+        satView = (CheckBox)findViewById(R.id.checkBox5);
+        satView.setOnCheckedChangeListener(new OnCheckedChangeListener() 
+        {
+        	@Override
+        	public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) 
+        	{
+        		if(satView.isChecked())
+        		{
+        			final Dialog dialog = new Dialog(context);
+        			dialog.setContentView(R.layout.styles);
+        			Button dialogButton = (Button)dialog.findViewById(R.id.dialogButtonOK);
+        			//set up dynamic progress bar based on radiobuttons
+        			if(size != 0)
+        			{
+        				setSize(dialog);
+        			}
+       				handleProgress(dialog);
+        			// if button is clicked, close the custom dialog
+        			dialogButton.setOnClickListener(new OnClickListener() 
+        			{
+        				@Override
+        				public void onClick(View v) {
+        		    		size = getSize(dialog);
+        		    		if(radioPressed(dialog))
+        		    		{
+        		    			dialog.dismiss();
+        		    		}
+        				}	
+        			});
+           			dialog.show();        	
+        		}
+        	}
+        });
+    }
+    
+    /**
+     * On click of the button, it calls get text field, which then
+     * calls the validation functions to make sure the input is valid and all
+     * that. If so, it then cleans it up and makes sure it's a real url
+     */
+    public void onClick(View view)
+    {
+    	
+    	try {
+			getTextField();
+		} catch (MalformedURLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (URISyntaxException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+    }
+
+	 /**
+     * Gets the content from the textfield on click of the submit button
+     * Once it's fetched, it calls the URL cleanup and validation functions
+     * to make sure it's all hunky dory
+     * @throws URISyntaxException 
+     * @throws MalformedURLException 
+     */
+    public void getTextField() throws MalformedURLException, URISyntaxException
+    {
+    	WebVerify holder = new WebVerify();
+    	EditText editText = (EditText)findViewById(R.id.editText1);
+    	String editTextStr = editText.getText().toString();
+    	int valid = holder.validateURL(editTextStr);
+    	if(valid == 0)
+    	{
+    		CheckBox imagesCheck = (CheckBox)findViewById(R.id.checkBox1);
+    		CheckBox jsCheck = (CheckBox)findViewById(R.id.checkBox3);
+    		CheckBox cssCheck = (CheckBox)findViewById(R.id.checkBox2);
+    		CheckBox webCheck = (CheckBox)findViewById(R.id.checkBox5);
+    		boolean images = imagesCheck.isChecked();
+    		boolean js = jsCheck.isChecked();
+    		boolean css = cssCheck.isChecked();
+    		boolean web = webCheck.isChecked();
+    		Input userInput = new Input(images,js,css,size);
+    		String a = this.toastCaller(images, js, css, web, size);
+    		storePref();
+        	//Settings temp = new Settings(userInput);
+    		//newDialog(a);
+    		Toast.makeText(this, a, Toast.LENGTH_LONG).show();    		
+    	}
+    	else
+    	{
+    		toastError(valid);
+    	}
+    }
+    
+    public void getPref()
+    {
+    	prefs = getSharedPreferences("FinalPrefs", 0); 
+		CheckBox imagesCheck = (CheckBox)findViewById(R.id.checkBox1);
+		CheckBox jsCheck = (CheckBox)findViewById(R.id.checkBox3);
+		CheckBox cssCheck = (CheckBox)findViewById(R.id.checkBox2);
+		CheckBox webCheck = (CheckBox)findViewById(R.id.checkBox5);
+    	EditText editText = (EditText)findViewById(R.id.editText1);
+    	imagesCheck.setChecked(prefs.getBoolean("1", false));
+    	jsCheck.setChecked(prefs.getBoolean("2", false));
+    	cssCheck.setChecked(prefs.getBoolean("3", false));
+    	webCheck.setChecked(prefs.getBoolean("4", false));
+    	size = prefs.getInt("5", 0);
+    	editText.setText(prefs.getString("6", "Enter URL Here"));
+    }
+ 
+
+	public void storePref()
+    {
+    	SharedPreferences.Editor editor = getSharedPreferences("FinalPrefs", 0).edit();
+		CheckBox imagesCheck = (CheckBox)findViewById(R.id.checkBox1);
+		CheckBox jsCheck = (CheckBox)findViewById(R.id.checkBox3);
+		CheckBox cssCheck = (CheckBox)findViewById(R.id.checkBox2);
+		CheckBox webCheck = (CheckBox)findViewById(R.id.checkBox5);
+		boolean images = imagesCheck.isChecked();
+		boolean js = jsCheck.isChecked();
+		boolean css = cssCheck.isChecked();
+		boolean web = webCheck.isChecked();
+    	EditText editText = (EditText)findViewById(R.id.editText1);
+    	String editTextStr = editText.getText().toString();
+    	editor.putBoolean("1", images);
+    	editor.putBoolean("2", js);
+    	editor.putBoolean("3", css);
+    	editor.putBoolean("4", web);
+    	editor.putInt("5", size);
+    	editor.putString("6", editTextStr);
+    	editor.commit();
+    }
+    
+	public void setSize(Dialog dialog)
+	{
+		RadioButton r1 = (RadioButton)dialog.findViewById(R.id.radioButton1);
+    	RadioButton r4 = (RadioButton)dialog.findViewById(R.id.radioButton2);
+    	RadioButton r2 = (RadioButton)dialog.findViewById(R.id.radioButton3);
+    	RadioButton r3 = (RadioButton)dialog.findViewById(R.id.radioButton4);
+    	final ProgressBar theBar = (ProgressBar)dialog.findViewById(R.id.progressBar1);
+    	if(size < 300)
+    	{
+    		r1.setChecked(true);
+    		theBar.setProgress(5);
+    	}
+    	else if(size == 300)
+    	{
+    		r2.setChecked(true);
+    		theBar.setProgress(15);
+    	}
+    	else if(size == 3000)
+    	{
+    		r3.setChecked(true);
+    		theBar.setProgress(50);
+    	}
+    	else if(size == 10000)
+    	{
+    		r4.setChecked(true);
+            theBar.setProgress(100);
+    	}
+	}
+	
+    /**
+     * Sets four consecutive onclicklisteners to the four radio buttons, and
+     * makes them dynamically set the progress on the progress bar
+     * @param dialog
+     */
+    public void handleProgress(Dialog dialog)
+    {
+    	RadioButton r1 = (RadioButton)dialog.findViewById(R.id.radioButton1);
+    	RadioButton r4 = (RadioButton)dialog.findViewById(R.id.radioButton2);
+    	RadioButton r2 = (RadioButton)dialog.findViewById(R.id.radioButton3);
+    	RadioButton r3 = (RadioButton)dialog.findViewById(R.id.radioButton4);
+    	final ProgressBar theBar = (ProgressBar)dialog.findViewById(R.id.progressBar1);
+    	r1.setOnCheckedChangeListener(new OnCheckedChangeListener()
+    	{
+    	    public void onCheckedChanged(CompoundButton buttonView, boolean isChecked)
+    	    {
+    	        if(isChecked)
+    	        {
+    	            theBar.setProgress(5);
+    	        }
+    	    }
+    	});
+    	r2.setOnCheckedChangeListener(new OnCheckedChangeListener()
+    	{
+    	    public void onCheckedChanged(CompoundButton buttonView, boolean isChecked)
+    	    {
+    	        if(isChecked)
+    	        {
+    	            theBar.setProgress(15);
+    	        }
+    	    }
+    	});
+    	r3.setOnCheckedChangeListener(new OnCheckedChangeListener()
+    	{
+    	    public void onCheckedChanged(CompoundButton buttonView, boolean isChecked)
+    	    {
+    	        if(isChecked)
+    	        {
+    	            theBar.setProgress(50);
+    	        }
+    	    }
+    	});
+    	r4.setOnCheckedChangeListener(new OnCheckedChangeListener()
+    	{
+    	    public void onCheckedChanged(CompoundButton buttonView, boolean isChecked)
+    	    {
+    	        if(isChecked)
+    	        {
+    	            theBar.setProgress(100);
+    	        }
+    	    }
+    	});
+    }
+    /**
+     * Just a function that makes sure one of the radio buttons is pressed
+     * @return
+     */
+    public static boolean radioPressed(Dialog dialog)
+    {
+    	RadioButton r1 = (RadioButton)dialog.findViewById(R.id.radioButton1);
+    	RadioButton r2 = (RadioButton)dialog.findViewById(R.id.radioButton2);
+    	RadioButton r3 = (RadioButton)dialog.findViewById(R.id.radioButton3);
+    	RadioButton r4 = (RadioButton)dialog.findViewById(R.id.radioButton4);
+    	if(r1 == null || r2 == null || r3 == null || r4 == null)
+    	{
+    		return false;
+    	}
+    	if(r1.isChecked() || r2.isChecked() || r3.isChecked() || r4.isChecked())
+    	{
+    		return true;
+    	}
+    	return false;
+    }
+
+   
+    /**
+     * Checks through all of the radio buttons, seeing if any are checked.
+     * If multiple are, it reverts to the smallest
+     * @return
+     */
+    public int getSize(Dialog dialog)
+    {
+    	int size2 = 0;
+    	RadioButton r1 = (RadioButton)dialog.findViewById(R.id.radioButton1);
+    	RadioButton r2 = (RadioButton)dialog.findViewById(R.id.radioButton2);
+    	RadioButton r3 = (RadioButton)dialog.findViewById(R.id.radioButton3);
+    	RadioButton r4 = (RadioButton)dialog.findViewById(R.id.radioButton4);
+    	if(r1.isChecked())
+    	{
+    		size2 = 100;
+    	}
+    	else if(r3.isChecked())
+    	{
+    		size2 = 300;
+    	}
+    	else if(r4.isChecked())
+    	{
+    		size2 = 3000;
+    	}
+    	else if(r2.isChecked())
+    	{
+    		size2 = 10000;
+    	}
+    	return size2;
+    }
+    
+    /**
+     * A super basic string concatenation function
+     * @param a -- the first string
+     * @param b -- the second string
+     * @return -- the concatenated one
+     */
+    public static String concat(String a, String b)
+    {
+    	return a + b;
+    }
+    
+    /**
+     * A function that prints a specific message based on user input
+     * @param images -- whether or not images was selected
+     * @param js -- whether or not javascript was selected
+     * @param css -- whether or not css was selected
+     */
+    public static String toastCaller(boolean images, boolean js, boolean css, boolean web, int size)
+    {
+    	String a = "Input Was A Valid URL, Fetching HTML";
+    	if(images && !js && !css)
+    	{
+    		a = concat(a, " and Images");
+    	}
+    	else if(!images && js && !css)
+    	{
+    		a = concat(a, " and JavaScript");
+    	}
+    	else if(!images && !js && css)
+    	{
+    		a = concat(a, " and CSS");
+    	}
+    	else if(images && js && !css)
+    	{
+    		a = concat(a, ", Images, and JavaScript");
+    	}
+    	else if(images && !js && css)
+    	{
+    		a = concat(a, ", Images, and CSS");
+    	}
+    	else if(!images && js && css)
+    	{
+    		a = concat(a, ", JavaScript, and CSS");
+    	}
+    	else if(images && js && css)
+    	{
+    		a = concat(a, ", Images, JavaScript, and CSS");
+    	}
+    	if(web)
+    	{
+    		a = concat(a, ", With a Maximum Page Download Size of " + Integer.toString(size) + " kb");
+    	}
+    	if(!web)
+    	{
+    		a = concat(a, ", Without a Limit on Page Size");
+    	}
+    	//Toast.makeText(this, a, Toast.LENGTH_LONG).show();
+    	return a;
+    }
+
+    /**
+     * Simply  for the sake of breaking up code, this handles
+     * the various errors that could be met 
+     * @param valid
+     */
+    public void toastError(int valid)
+    {
+    	if(valid == -1)
+    	{
+			Toast.makeText(this, "Input Was Invalid, Invalid Extension, Please Try Again", Toast.LENGTH_LONG).show();
+    	}
+    	else if(valid == -2)
+    	{
+    		Toast.makeText(this, "Input Was Invalid, Use of Space Key, Please Try Again", Toast.LENGTH_LONG).show();
+    	}
+    	else if(valid == -3)
+    	{
+    		Toast.makeText(this, "Input Was Invalid, Not A Real Site, Please Try Again", Toast.LENGTH_LONG).show();
+    	}
+    	else if(valid == -4)
+    	{
+    		Toast.makeText(this, "Input Was Invalid, Use of Space Key, Please Try Again", Toast.LENGTH_LONG).show();
+    	}
+    	else if(valid == -5)
+    	{
+    		Toast.makeText(this, "Input Was Invalid, IO Exception, Please Try Again", Toast.LENGTH_LONG).show();   		
+    	}
+    }
+    
+    /**
+     * Another on create, but pops up the menu (inflates it)
+     */
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) 
+	{
+		MenuInflater inflater = getMenuInflater();
+		inflater.inflate(R.layout.menu, menu);
+		return true;
+	}
+
+	/**
+	 * Runs the on selection part of the menu
+	 */
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) 
+	{
+		switch (item.getItemId()) 
+		{
+			case R.id.add:
+		        Intent intent = new Intent(this, AboutUs.class);
+		        this.startActivity(intent);				
+		        return true;
+			case R.id.help:
+		        Intent intentHelp = new Intent(this, Help.class);
+		        this.startActivity(intentHelp);				
+		        return true;
+			default:
+				return super.onOptionsItemSelected(item);
+		}
+	}
+}

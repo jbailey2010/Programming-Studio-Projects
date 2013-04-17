@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/fa12-cs242/!svn/ver/4397/bailey27/Assignment1.2/Tests
+END
+NodeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/fa12-cs242/!svn/ver/4667/bailey27/Assignment1.2/Tests/NodeTests.java
+END
+TestGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/fa12-cs242/!svn/ver/5449/bailey27/Assignment1.2/Tests/TestGroup.java
+END
+DistanceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/fa12-cs242/!svn/ver/4397/bailey27/Assignment1.2/Tests/DistanceTests.java
+END
+TestUserInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/fa12-cs242/!svn/ver/5428/bailey27/Assignment1.2/Tests/TestUserInterface.java
+END
+DjikstraTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/fa12-cs242/!svn/ver/4803/bailey27/Assignment1.2/Tests/DjikstraTest.java
+END
+AStarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/fa12-cs242/!svn/ver/4667/bailey27/Assignment1.2/Tests/AStarTest.java
+END
+MazeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/fa12-cs242/!svn/ver/5449/bailey27/Assignment1.2/Tests/MazeTests.java
+END
